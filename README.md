@@ -38,7 +38,6 @@ Styling is completely up to you. As long as the above requirements are met, you 
 
 The purpose of the frontend of this assignment is to evaluate your ability when use React hooks (e.g. usState, useEffect), thus, pay close attention to this aspect of the assignment. Additionally, it is recommended you use Axios in order to make API calls to the backend.
 
-<a name="headers"/>
 ### Backend
 
 ##### Your API must follow RESTful architecture and must expose the following routes
