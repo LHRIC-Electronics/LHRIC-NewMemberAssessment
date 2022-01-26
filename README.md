@@ -1,6 +1,14 @@
 # New member software assessment for Longhorn Racing Combustion
 
-The purpose of this assessment is to vet and teach. It is not expected of you to know all of these concepts prior to applying, but rather we want to see if you have time and initiative to complete the task.  
+The purpose of this assessment is to vet and teach. It is not expected of you to know all of these concepts prior to applying, but rather we want to see if you have time and initiative to complete the task. 
+
+## Contents
+
+- [The Task](#the-task)
+- [Frontend](#frontend)
+- [Backend](#backend)
+- [Database](#database)
+- [Submission](#submission)
 
 ### The Task
 
@@ -28,6 +36,7 @@ The frontend for your application is loose in requirements.
 
 Styling is completely up to you. As long as the above requirements are met, you may format everything as you'd like. 
 
+<a name="headers"/>
 ### Backend
 
 ##### Your code must expose the following APIs
@@ -64,3 +73,9 @@ Your database must be hosted on MongoDB. While alternative methods exist, we at 
 Creating a shared Mongo database is completely free. Simply create an account and create a database using MongoDB Atlas.
 
 For connecting your node application with the Mongo database, We recommend that you use Mongoose (https://www.npmjs.com/package/mongoose). 
+
+### Submission
+
+Please make and share a Github repository containing all of the files necessary to run your completed web application. Best of luck!
+
+*If there any issues or ambiguities in the instructions, please let us know and we will be happy to fix them*
