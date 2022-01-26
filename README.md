@@ -36,10 +36,12 @@ The frontend for your application is loose in requirements.
 
 Styling is completely up to you. As long as the above requirements are met, you may format everything as you'd like. 
 
+The purpose of the frontend of this assignment is to evaluate your ability when use React hooks (e.g. usState, useEffect), thus, pay close attention to this aspect of the assignment. Additionally, it is recommended you use Axios in order to make API calls to the backend.
+
 <a name="headers"/>
 ### Backend
 
-##### Your code must expose the following APIs
+##### Your API must follow RESTful architecture and must expose the following routes
 
 *The notation "{key: value}" indicates a key-value pair (e.g. {msg: "hello world"})*
 
@@ -64,7 +66,7 @@ Styling is completely up to you. As long as the above requirements are met, you 
       1. Status Code: 400
       2. {err: error} <- *hint* use a try-catch block
 
-**The APIs MUST be written using NodeJS, as it is the core technology of our backend.**
+**The API MUST be written using NodeJS, as it is the core technology of our backend.**
 
 ### Database
 
