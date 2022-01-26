@@ -1,4 +1,4 @@
-# New member software assessment for Longhorn Racing Combustion
+# New member software assessment for Longhorn Racing - Combustion
 
 The purpose of this assessment is to vet and teach. It is not expected of you to know all of these concepts prior to applying, but rather we want to see if you have time and initiative to complete the task.  
 
