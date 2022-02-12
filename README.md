@@ -69,14 +69,14 @@ The purpose of the frontend of this assignment is to evaluate your ability when 
 
 ### Database
 
-Your database must be hosted on MongoDB. While alternative methods exist, we at LHR appreciate the flexibility and ease of NoSQL databases. 
+Your database must be hosted on MongoDB. While alternative methods exist, we currently prefer the flexibility and ease of NoSQL databases. 
 
 Creating a shared Mongo database is completely free. Simply create an account and create a database using MongoDB Atlas.
 
-For connecting your node application with the Mongo database, We recommend that you use Mongoose (https://www.npmjs.com/package/mongoose). 
+For connecting your node application with the Mongo database, we recommend that you use Mongoose (https://www.npmjs.com/package/mongoose). 
 
 ### Submission
 
 Please make and share a Github repository containing all of the files necessary to run your completed web application. Best of luck!
 
-*If there any issues or ambiguities in the instructions, please let us know and we will be happy to fix them*
+*If there any issues or ambiguities in the instructions, please let us know and we will be happy clarify*
